@@ -7,6 +7,21 @@
 ![alt text](https://github.com/Demesaikiran/PigDiceGame/blob/master/dist/Dice.jpg)
 
 
+## System Requirements
+
+```
+1. Python version greater than 3.6
+```
+
+```
+2. Pynput Library
+
+Installation command: 
+
+pip install pynput
+```
+
+
 ## The instructions to play this game flows like this
 
 ```
@@ -28,6 +43,25 @@ then the user will move forward to reach their goal 100.
 
 ```
 5. Thats all about the PIG-Dice Game...
+```
+
+
+
+
+## Converting python file to exe file to install in windows
+
+```
+STEP-1: Install pyinstaller
+
+pip install pyinstaller
+```
+
+```
+STEP-2: Convert python file to .exe file
+
+Go to the destination folder and then type command given below
+
+pyinstaller --onefile <Python file name>
 ```
 
 
